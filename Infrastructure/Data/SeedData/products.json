@@ -3,7 +3,7 @@
       "Name": "Angular Speedster Board 2000",
       "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       "Price": 200,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/51e8dd434950b10ff3d8992cc12c30771037dbf85254794e73287ad3944a_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 1
     },
@@ -11,7 +11,7 @@
       "Name": "Green Angular Board 3000",
       "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
       "Price": 150,
-      "PictureUrl": "images/products/sb-ang2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/55e8d64a4253a514f1dc8460962e33791c3ad6e04e5074417d2d79d5964ec6_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 1
     },
@@ -19,7 +19,7 @@
       "Name": "Core Board Speed Rush 3",
       "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
       "Price": 180,
-      "PictureUrl": "images/products/sb-core1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/53e3d7454351ac14f1dc8460962e33791c3ad6e04e507440762e7ad3954fcd_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 2
     },
@@ -27,7 +27,7 @@
       "Name": "Net Core Super Board",
       "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
       "Price": 300,
-      "PictureUrl": "images/products/sb-core2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e2d54a4e51a514f1dc8460962e33791c3ad6e04e50744172277ed0974ac3_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 2
     },
@@ -35,7 +35,7 @@
       "Name": "React Board Super Whizzy Fast",
       "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       "Price": 250,
-      "PictureUrl": "images/products/sb-react1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/52e2d1464e53aa14f1dc8460962e33791c3ad6e04e507441722973d5974ccc_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 4
     },
@@ -43,7 +43,7 @@
       "Name": "Typescript Entry Board",
       "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
       "Price": 120,
-      "PictureUrl": "images/products/sb-ts1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e0d1414e5aac14f1dc8460962e33791c3ad6e04e507749712a72d3924fc3_640.jpg",
       "ProductTypeId": 1,
       "ProductBrandId": 5
     },
@@ -51,7 +51,7 @@
       "Name": "Core Blue Hat",
       "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       "Price": 10,
-      "PictureUrl": "images/products/hat-core1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e5d4444a54ab14f1dc8460962e33791c3ad6e04e507440722d72d59049c5_640.jpg",
       "ProductTypeId": 2,
       "ProductBrandId": 2
     },
@@ -59,7 +59,7 @@
       "Name": "Green React Woolen Hat",
       "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
       "Price": 8,
-      "PictureUrl": "images/products/hat-react1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/52e4d1474351b10ff3d8992cc12c30771037dbf852547848702a7fd0904f_640.jpg",
       "ProductTypeId": 2,
       "ProductBrandId": 4
     },
@@ -67,7 +67,7 @@
       "Name": "Purple React Woolen Hat",
       "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       "Price": 15,
-      "PictureUrl": "images/products/hat-react2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/55e7d2464e57a814f1dc8460962e33791c3ad6e04e5074417c2d78d39545c6_640.jpg",
       "ProductTypeId": 2,
       "ProductBrandId": 4
     },
@@ -75,7 +75,7 @@
       "Name": "Blue Code Gloves",
       "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
       "Price": 18,
-      "PictureUrl": "images/products/glove-code1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/55e1dd474d5ba414f1dc8460962e33791c3ad6e04e50744074267bd6974fc5_640.jpg",
       "ProductTypeId": 4,
       "ProductBrandId": 3
     },
@@ -83,7 +83,7 @@
       "Name": "Green Code Gloves",
       "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
       "Price": 15,
-      "PictureUrl": "images/products/glove-code2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e8d1404f5bab14f1dc8460962e33791c3ad6e04e507441722978d69f48c6_640.jpg",
       "ProductTypeId": 4,
       "ProductBrandId": 3
     },
@@ -91,7 +91,7 @@
       "Name": "Purple React Gloves",
       "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
       "Price": 16,
-      "PictureUrl": "images/products/glove-react1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/joshua-coleman-qbO7Mlhq8PQ-unsplash.jpg",
       "ProductTypeId": 4,
       "ProductBrandId": 4
     },
@@ -99,7 +99,7 @@
       "Name": "Green React Gloves",
       "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
       "Price": 14,
-      "PictureUrl": "images/products/glove-react2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e6d0404d5baa14f1dc8460962e33791c3ad6e04e507441722a72dd944ac3_640.jpg",
       "ProductTypeId": 4,
       "ProductBrandId": 4
     },
@@ -107,7 +107,7 @@
       "Name": "Redis Red Boots",
       "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
       "Price": 250,
-      "PictureUrl": "images/products/boot-redis1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/52e5d2434956a414f1dc8460962e33791c3ad6e04e507441722978d69f4dc0_640.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -115,7 +115,7 @@
       "Name": "Core Red Boots",
       "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
       "Price": 189.99,
-      "PictureUrl": "images/products/boot-core2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/5fe8d0464f54b10ff3d8992cc12c30771037dbf85254794e72287fd1974b_640.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 2
     },
@@ -123,7 +123,7 @@
       "Name": "Core Purple Boots",
       "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
       "Price": 199.99,
-      "PictureUrl": "images/products/boot-core1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/57e0dd424257ae14f1dc8460962e33791c3ad6e04e507440722d72d0904fcc_640.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 2
     },
@@ -131,7 +131,7 @@
       "Name": "Angular Purple Boots",
       "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
       "Price": 150,
-      "PictureUrl": "images/products/boot-ang2.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/55e2d54a4956ad14f1dc8460962e33791c3ad6e04e50744172297bd49e49c4_640.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 1
     },
@@ -139,7 +139,7 @@
       "Name": "Angular Blue Boots",
       "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
       "Price": 180,
-      "PictureUrl": "images/products/boot-ang1.png",
+      "PictureUrl": "https://randomwordgenerator.com/img/picture-generator/51e4d0404f4faa0df7c5d57bc32f3e7b1d3ac3e456597948702d7cdc97_640.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 1
     }
